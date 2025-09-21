@@ -1,6 +1,6 @@
 # AminoDorks Team
 <div align="center">
-    <img src="https://minecraft-inside.ru/uploads/ac/09/d0/577545.png" height="70" alt="Team AminoDorks" />
+    <img src="achievement.png" height="70" alt="Team AminoDorks" />
 </div>
 
 ## Who we are
