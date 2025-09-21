@@ -1,6 +1,6 @@
 # AminoDorks Team
 <div align="center">
-    <img src="https://i.pinimg.com/1200x/1a/2d/81/1a2d81fc2413298f21e72e1dc9a0837f.jpg" height="350" alt="Team AminoDorks" />
+    <img src="https://minecraft-inside.ru/uploads/ac/09/d0/577545.png" height="70" alt="Team AminoDorks" />
 </div>
 
 ## Who we are
@@ -43,3 +43,6 @@
         </tr>
     </table>
 </div>
+
+## Contact us
+- ### You can contact us via [**Telegram**](https://t.me/aminodorks)
