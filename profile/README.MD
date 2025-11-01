@@ -1,6 +1,6 @@
 # AminoDorks Team
 <div align="center">
-    <img src="achievement.png" height="70" alt="Team AminoDorks" />
+    <img src="cover.png" alt="Team AminoDorks" />
 </div>
 
 ## Who we are
