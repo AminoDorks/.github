@@ -41,6 +41,14 @@
                 </a>
             </td>
         </tr>
+        <tr>
+            <td colspan="5>
+                <a align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px" href="https://github.com/AminoDorks/ravejs">
+                    <img src="https://cdn.aptoide.com/imgs/5/8/1/58159550888f569f2f4b2e58a29b3a5a_icon.png?w=128" height="50" alt="Amino"/>
+                    <b>RaveJS</b>
+                </a>
+            </td>
+        </tr>
     </table>
 </div>
 
