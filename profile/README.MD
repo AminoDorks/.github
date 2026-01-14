@@ -42,10 +42,28 @@
             </td>
         </tr>
         <tr>
-            <td colspan="5">
+            <td>
                 <a align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px" href="https://github.com/AminoDorks/ravejs">
-                    <img src="https://cdn.aptoide.com/imgs/5/8/1/58159550888f569f2f4b2e58a29b3a5a_icon.png?w=128" height="50" alt="Amino"/>
+                    <img src="https://cdn.aptoide.com/imgs/5/8/1/58159550888f569f2f4b2e58a29b3a5a_icon.png?w=128" height="50" style="border-radius: 25%" alt="rave"/>
                     <b>RaveJS</b>
+                </a>
+            </td>
+            <td>
+                <a align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px" href="https://github.com/AminoDorks/RaveNet">
+                    <img src="https://cdn.aptoide.com/imgs/5/8/1/58159550888f569f2f4b2e58a29b3a5a_icon.png?w=128" height="50" style="border-radius: 25%" alt="rave"/>
+                    <b>RaveNet</b>
+                </a>
+            </td>
+            <td>
+                <a align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px" href="https://github.com/AminoDorks/Rave-RegFlow">
+                    <img src="https://cdn.aptoide.com/imgs/5/8/1/58159550888f569f2f4b2e58a29b3a5a_icon.png?w=128" height="50" style="border-radius: 25%" alt="rave"/>
+                    <b>Rave-Regflow</b>
+                </a>
+            </td>
+            <td>
+                <a align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px" href="https://github.com/AminoDorks/DorksRestAPI">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/The_logo_of_Amino_%28app%29_since_2023.png" height="50" alt="Amino"/>
+                    <b>DorksRestAPI</b>
                 </a>
             </td>
         </tr>
