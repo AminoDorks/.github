@@ -36,7 +36,7 @@
             </td>
             <td>
                 <a align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px" href="https://github.com/AminoDorks/KyodoDorksTS">
-                    <img src="https://kyodo.app/favicon.png" height="50" alt="Amino"/>
+                    <img src="https://play-lh.googleusercontent.com/o2-xHpikMYWL6uJngdb9qjiwb5Am8Ia6iQx9889msbkS5NRNjcblQrCn-4Vq7J6-KDPRdTa8XXmNN782qeMT2A" height="50" alt="Amino"/>
                     <b>KyodoDorksTS</b>
                 </a>
             </td>
