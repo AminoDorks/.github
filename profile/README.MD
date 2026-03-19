@@ -1,15 +1,3 @@
-# AminoDorks Team
-<div align="center">
-    <img src="cover.png" alt="Team AminoDorks" />
-</div>
-
-## Who we are
-- ### We are team of **developers-enthusiasts** that wanna make projects for android applications and help the people to make their life easier
-- ### We are basics of android pentesting and security bypassing
-- ### We are **team AminoDorks**
-
-## Projects
-
 <div align="center">
     <table>
         <tr>
